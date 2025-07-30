@@ -1,4 +1,4 @@
-# 🤖 Maktabkhooneh Machine Learning Projects
+# Maktabkhooneh Machine Learning Projects
 
 This repository contains three hands-on machine learning projects completed as part of my learning journey. Each project demonstrates a core ML task using real-world datasets and common machine learning techniques with Python.
 
